@@ -21,7 +21,3 @@ Section:NewButton("inf jump", "inf", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BsGlitch/-nfJumps/main/BsGlitch"))();
     print("Clicked")
 end)
-Section:NewButton("autoclicker", "auto", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/deoppp/autoclicker/main/.github/workflows/autoclicker.lua"))();
-    print("Clicked")
-end)
