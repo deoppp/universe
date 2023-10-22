@@ -22,6 +22,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BsGlitch/-nfJumps/mai
     print("Clicked")
 end)
 Section:NewButton("autoclicker", "auto", function()
-https://raw.githubusercontent.com/deoppp/autoclicker/main/.github/workflows/autoclicker.lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/deoppp/autoclicker/main/.github/workflows/autoclicker.lua'))()
     print("Clicked")
 end)
